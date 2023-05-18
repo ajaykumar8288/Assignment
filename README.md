@@ -1,6 +1,11 @@
 # assignment_1
 
 A new Flutter project.
+Project SnapShot
+![image](https://github.com/ajaykumar8288/Assignment/assets/72918013/237c4637-9482-4dd1-914b-d21d49a750b5)
+
+![image](https://github.com/ajaykumar8288/Assignment/assets/72918013/760cb087-d3a6-4ba9-a905-dbe16d6da8b8)
+
 
 ## Getting Started
 
